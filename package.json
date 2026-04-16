@@ -1,0 +1,17 @@
+{
+  "name": "printable-graph-paper-js",
+  "version": "1.0.0",
+  "description": "Generate printable graph paper SVG layouts including square, dot, isometric and hex grids",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["graph-paper", "grid", "svg", "printable", "isometric"],
+  "author": "wsmhj",
+  "license": "MIT",
+  "homepage": "https://printablegraphpaper.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wsmhj/printable-graph-paper-js.git"
+  }
+}
